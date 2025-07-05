@@ -6,7 +6,7 @@
 <artifactId>hexagonal-architecture-approach</artifactId>
 <version>0.0.1-SNAPSHOT</version>
 <name>modular application</name>
-<description>This repository is the modular parent</description>
+<description>This repository is the modular parent https://foojay.io/today/clean-and-modular-java-a-hexagonal-architecture-approach/</description>
 <packaging>pom</packaging>
 
     <modules>
